@@ -10,10 +10,10 @@
 <div align="center">
 	<hr />
     <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+        <a href="https://github.com/sponsors/jwasham"><strong>הפוך לספונסר</strong> ותתמוך בנו</a>
     </p>
     <p>
-        <strong>Special thanks to:</strong>
+        <strong> :תודות מיוחדות</strong>
     </p>
     <p>
         <a href="https://oss.capital/">
